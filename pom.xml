@@ -6,7 +6,7 @@
 	<!-- groupID must be the business group ID or ORGID-->
 	<groupId>d08e955f-b452-435d-aae9-4caae2f97e74</groupId>
 	<artifactId>greeetings-parametrized</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>mule-application</packaging>
 
 	<name>greeetings-parametrized</name>
